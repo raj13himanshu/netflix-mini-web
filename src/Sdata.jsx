@@ -4,14 +4,14 @@ const Sdata = [
     sname: "DARK",
     imgscr: "https://wallpapercave.com/wp/wp4056410.jpg",
     title: "Netflix Original Series",
-    links: "https://www.netflix.com/in/title/80990668?source=35",
+    links: "https://www.netflix.com/in/title/80100172",
   },
   {
     id: 2,
     sname: "Stranger Things",
     imgscr: "https://wallpapercave.com/wp/wp1917154.jpg",
     title: "Netflix Original Series",
-    links: "https://www.netflix.com/in/title/80990668?source=35",
+    links: "https://www.netflix.com/in/title/80057281",
   },
   {
     id: 3,
@@ -25,23 +25,22 @@ const Sdata = [
     id: 4,
     sname: "the Vampire Diaries ",
     imgscr: "https://images.justwatch.com/poster/8589251/s592",
-    title: "azon Original Series",
+    title: "Netflix Original Series",
     links: "https://www.netflix.com/in/title/80990668?source=35",
   },
   {
     id: 5,
-    sname: "My First-2 Love",
-    imgscr:
-      "https://i.pinimg.com/474x/7b/19/58/7b19584ec5ffba063a121508e78fe7a4.jpg",
+    sname: "Money Heist",
+    imgscr: "https://wallpapercave.com/uwp/uwp1246036.jpeg",
     title: "Netflix Original Series",
-    links: "https://www.netflix.com/in/title/81026700?source=35",
+    links: "https://www.netflix.com/in/title/80192098",
   },
   {
     id: 6,
-    sname: "DARK",
-    imgscr: "https://wallpapercave.com/wp/wp4056410.jpg",
+    sname: "Lucifer",
+    imgscr: "https://wallpapercave.com/wp/wp9354398.jpg",
     title: "Netflix Original Series",
-    links: "https://www.netflix.com/in/title/80990668?source=35",
+    links: "https://www.netflix.com/in/title/80057918",
   },
 ];
 
